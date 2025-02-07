@@ -4,7 +4,7 @@ import markdown
 import os
 from dotenv import load_dotenv
 
-load_dotenv()  # Load enviroment variables from .env
+load_dotenv()  # Load enviroment variables from
 
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
