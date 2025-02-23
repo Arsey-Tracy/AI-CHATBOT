@@ -1,6 +1,6 @@
 #  AI Chatbot developed with Flask & Google Gemini
 
-A simple Mordern, responsive chatbot built using Flask, Javascript, HTML, and CSS, powered by Google Gemini AI. this chatbot suppoerts Markdown syntax and features a clean scrollable UI.
+A simple Mordern, responsive chatbot built using Flask, Javascript, HTML, and CSS, powered by Google Gemini AI. this chatbot supports Markdown syntax and features a clean scrollable UI.
 
 🚀 Features
 
